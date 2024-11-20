@@ -23,6 +23,10 @@
     <div class="one-half column">1/2</div>
   </div>
 
+  p {
+    color: red;
+  }
+
 </div>
 
 <!-- Note: columns can be nested, but it's not recommended since Skeleton's grid has %-based gutters, meaning a nested grid results in variable with gutters (which can end up being *really* small on certain browser/device sizes) -->
